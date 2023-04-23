@@ -1,0 +1,3 @@
+com\powergleb\docker\compose\SpringbootMongodbDockerApplication.class
+com\powergleb\docker\compose\dao\BookRepository.class
+com\powergleb\docker\compose\model\Book.class
